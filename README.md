@@ -1,5 +1,3 @@
-TODO Readme Complet
-
 ## Commencer lancer le programme
 
 Executer le programme java en utilisant comme argument le nom du fichier présent dans les resources:
